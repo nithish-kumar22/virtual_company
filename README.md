@@ -1,1 +1,1 @@
-# virtual_company
+This app is only for business
